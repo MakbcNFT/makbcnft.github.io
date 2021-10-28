@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x947840bdc0367d2405a44bab533cd10ffc9aef3d",
+  "SCAN_LINK": "https://polygonscan.com/token/0x947840bDc0367d2405a44Bab533cD10ffc9AEf3d",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "The Middle Age Knight Battle Club",
+  "SYMBOL": "MAKBC",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 50000000000000000,
+  "DISPLAY_COST": 0.05,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/the-middle-age-knight-battle-club",
+  "SHOW_BACKGROUND": true
+}
